@@ -1,0 +1,24 @@
+kafkademo/.idea
+kafkademo/auxiliary_tasks.egg-info
+kafkademo/build
+kafkademo/dist
+kafka/.idea
+kafka/auxiliary_tasks.egg-info
+kafka/build
+kafka/dist
+out
+project/project
+project/target
+target
+/metastore_db
+/derby.log
+# User-specific stuff
+.idea/*
+/.idea/*
+/.idea
+*scala_compiler.xml
+asd.sc
+
+
+
+
